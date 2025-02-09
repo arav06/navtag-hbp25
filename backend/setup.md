@@ -9,4 +9,4 @@
 
 - locally port forward mongodb from main server to toll booth
 - python3 toll booth script
-- python3 ultrasonic script
+- python3 ultrasonic script and provide ip of device running tollbooth
